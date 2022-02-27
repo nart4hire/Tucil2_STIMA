@@ -18,6 +18,7 @@ Pada Repository ini terdapat implentasi dari "myConvexHull.py" yaitu suatu libra
  - ubah index pada baris yang mengandung "iloc" menjadi kolom sesuai kolom di atas
  - ubah path pada baris yang mengandung "plt.savefig('c:/Github/Tucil2_STIMA/test/Alcohol.png')" menjadi path yang diinginkan atau jika perlu. Jangan lupa mengubah nama gambar. (cth: "plt.savefig('%PATH%/test/nama_gambar.png))
  - untuk dataset yang mengandung lebih dari 3 kelas, tambahkan jenis warna pada array colors
+ - Jika tetap tidak bisa, maka dataset tersebut tidak bisa dipakai dalam visualisasi ini atau diperlukan implementasi visualisasi per kasus (tidak ada implementasi visualisasi data one size fits all)
 
 ## Requirement
 - Python 3 (dianjurkan versi terbaru)
